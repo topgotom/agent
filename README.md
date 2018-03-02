@@ -1,3 +1,3 @@
 
-# ip data update per week or one month
+# update by week
 Коллекция бесплатных прокси из socks-proxy.net
